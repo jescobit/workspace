@@ -9,5 +9,3 @@ types = {
     'electric': 4, 
     'chemical': 5
 }
-
-#test
