@@ -1,7 +1,7 @@
 '''
-space.py 
+PARTICLE space.py 
 
-creates a 3d space for a simulation and allows the creationof potentials
+creates a 3d space for a simulation and allows the creation of potentials
 Can create an object in space and update the field. 
 
 in it, it describes the potentials of all 4 forces, 
